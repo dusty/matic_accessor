@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.email = "github@dusty.name"
   s.homepage = "http://github.com/dusty/matic_accessor"
   s.platform = Gem::Platform::RUBY
-  s.summary = "Plugin for Mongomatic to allow dot-notation access to document attributes"
-  s.description = "Plugin for Mongomatic to allow dot-notation access to document attributes"
+  s.summary = "Plugin for Mongomatic to provide dot-notation access to document attributes"
+  s.description = "Plugin for Mongomatic to provide dot-notation access to document attributes"
   s.files = [
     "README.txt",
     "lib/matic_accessor.rb",
